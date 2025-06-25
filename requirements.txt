@@ -2,6 +2,7 @@ streamlit
 spacy
 keybert
 sentence-transformers
+transformers
 python-docx
 PyPDF2
 textract
