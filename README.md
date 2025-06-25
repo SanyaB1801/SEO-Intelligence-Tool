@@ -8,7 +8,7 @@
 
 In the digital marketing and content publishing space, optimizing content for search engines is critical for visibility. However, identifying relevant keywords, extracting topics, and generating effective meta titles/descriptions is often time-consuming and manual.
 
-> **Challenge:** Build a lightweight, deployable SEO tool that can automate this process using modern NLP techniques.
+**Challenge:** Build a lightweight, deployable SEO tool that can automate this process using modern NLP techniques.
 
 
 ### ✅ Solution Overview
