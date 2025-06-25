@@ -1,0 +1,11 @@
+streamlit
+spacy
+keybert
+sentence-transformers
+python-docx
+PyPDF2
+textract
+pytesseract
+pdf2image
+beautifulsoup4
+requests
