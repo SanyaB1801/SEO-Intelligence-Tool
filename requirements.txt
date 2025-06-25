@@ -2,7 +2,7 @@ streamlit
 spacy
 keybert
 sentence-transformers
-transformers
+transformers==4.40.2
 python-docx
 PyPDF2
 textract
