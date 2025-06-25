@@ -3,7 +3,6 @@
 
 **An AI-powered web application that analyzes web articles and blog content to generate SEO insights — including keyword extraction, topic detection, and meta tag suggestions.**
 
----
 
 ### 📌 Problem Statement
 
@@ -11,7 +10,6 @@ In the digital marketing and content publishing space, optimizing content for se
 
 > **Challenge:** Build a lightweight, deployable SEO tool that can automate this process using modern NLP techniques.
 
----
 
 ### ✅ Solution Overview
 
@@ -29,7 +27,6 @@ It performs the following:
 * Support for **OCR-based scanned PDFs** using Tesseract
 * Unified interface built with **Streamlit**, deployed on **Hugging Face Spaces**
 
----
 
 ### 🛠️ How It Works
 
@@ -48,13 +45,10 @@ It performs the following:
 | **Topics / Noun Phrases**    | Based on noun chunks from spaCy’s parser                               |
 | **Meta Title & Description** | Heuristically generated from top-ranked keywords and leading sentences |
 
----
 
 ### 🖼️ Application Demo
 
 > 🔗 **Live Demo**: [https://huggingface.co/spaces/your-username/seo-intelligence-tool](https://huggingface.co/spaces/your-username/seo-intelligence-tool)
-
----
 
 ### 📁 Project Structure
 
@@ -68,7 +62,6 @@ It performs the following:
 └── README.md              # Project documentation
 ```
 
----
 
 ### ⚙️ Installation & Local Setup
 
@@ -89,7 +82,6 @@ streamlit run app.py
 
 > 📝 On Windows, install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/wiki) and [Poppler](https://github.com/oschwartz10612/poppler-windows) manually, and add to PATH.
 
----
 
 ### 📦 Requirements
 
@@ -109,7 +101,6 @@ requests
 
 > The app uses the `en_core_web_sm` spaCy model. It will auto-download on first run.
 
----
 
 ### 📂 Supported File Types
 
@@ -121,7 +112,6 @@ requests
 | `.doc`         | ✅       | Extracted using `textract`              |
 | Scanned `.pdf` | ✅       | OCR performed via `pytesseract`         |
 
----
 
 ### 🧠 Future Improvements (Optional Enhancements)
 
@@ -130,10 +120,11 @@ requests
 * ✅ SEO similarity comparison with competitor URLs
 * ✅ Language detection and support for multilingual input
 
----
 
 ### 👨‍💻 Author
 
 Developed by **\[Your Full Name]**
 GitHub: [github.com/sanyab1801](https://github.com/sanyab1801)
 Deployed on: [Hugging Face Spaces](https://huggingface.co/spaces)
+
+---
