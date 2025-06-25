@@ -123,7 +123,7 @@ requests
 
 ### 👨‍💻 Author
 
-Developed by **\[Your Full Name]**
+Developed by **\[Sanya Behera]**
 GitHub: [github.com/sanyab1801](https://github.com/sanyab1801)
 Deployed on: [Hugging Face Spaces](https://huggingface.co/spaces)
 
