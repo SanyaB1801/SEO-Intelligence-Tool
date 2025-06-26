@@ -58,9 +58,10 @@ It performs the following:
 
 ```bash
 .
-├── app.py                 # Streamlit UI and main controller
-├── nlp_utils.py           # NLP functions for keyword, entity, and meta extraction
-├── file_utils.py          # File/URL scraping and OCR handling
+├── src
+|     ├── app.py           # Streamlit UI and main controller
+|     ├── nlp_utils.py     # NLP functions for keyword, entity, and meta extraction
+|     ├── file_utils.py    # File/URL scraping and OCR handling
 ├── requirements.txt       # Python package dependencies
 ├── .huggingface.yml       # Config for installing system packages (OCR support)
 └── README.md              # Project documentation
