@@ -72,7 +72,7 @@ It performs the following:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/seo-intelligence-tool.git
+git clone https://github.com/sanyab1801/seo-intelligence-tool.git
 cd seo-intelligence-tool
 
 # Install Python dependencies
