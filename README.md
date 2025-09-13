@@ -48,7 +48,7 @@ It performs the following:
 
 ### 🖼️ Application Demo
 
-> 🔗 **Live Demo**: [https://huggingface.co/spaces/your-username/seo-intelligence-tool](https://huggingface.co/spaces/your-username/seo-intelligence-tool)
+> 🔗 **Live Demo**: [https://huggingface.co/spaces/sanyab/seo-intelligence-tool](https://huggingface.co/spaces/sanyab/seo-intelligence-tool)
 
 [streamlit-streamlit_app-2025-06-26-11-06-30.webm](https://github.com/user-attachments/assets/df7a8cf5-9a84-416b-a924-615ccf04127c)
 
